@@ -45,7 +45,7 @@ Lender terms: maximum gearing 70% of project cost, tenor up to 15 years from COD
 
 ## Model architecture
 
-Six tabs, structured so the debt assumptions switch on without rebuilding the operating model.
+Five tabs, structured so the debt assumptions switch on without rebuilding the operating model.
 
 **Assumptions** — every input on one page, colour-coded and referenced absolutely. No number is hard-coded inside a formula anywhere in the workbook.
 
@@ -56,8 +56,6 @@ Six tabs, structured so the debt assumptions switch on without rebuilding the op
 **Sensitivities** — a 7×7 grid of net capacity factor against PPA tariff, plus single-variable breakevens on tariff, capacity factor and capex.
 
 **Outputs** — returns, coverage and breakeven summary feeding the deck.
-
-**Deck Storyboard** — slide-by-slide mapping of which output supports which claim.
 
 ### Built-in checks
 
