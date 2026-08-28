@@ -15,7 +15,8 @@ The headline finding is that the project does not clear its hurdle rate: **6.07%
 | `Meridian_Solar_IPP_Model.xlsx` | The model — assumptions, cash flow build, debt schedule, sensitivities, outputs |
 | `Meridian_Solar_IPP_Deal_Review.pdf` | 12-slide deal review presentation |
 | `Meridian_Solar_IPP_Deal_Review.pptx` | The same deck in editable form |
-| `Meridian_Solar_IPP_Research_Brief.pdf` | Written brief supporting the technical and market assumptions |
+| `RESEARCH_BRIEF.md` | Written brief supporting the technical and market assumptions |
+| `Meridian_Solar_IPP_Research_Brief.pdf` | The same brief as a PDF |
 | `/images` | Slide exports used below |
 
 ---
